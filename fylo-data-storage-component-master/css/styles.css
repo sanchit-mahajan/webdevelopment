@@ -1,0 +1,70 @@
+body{
+  background-color: #0C122C;
+  color: white;
+  font-family: 'Raleway', sans-serif;
+}
+
+/* design box */
+.design-img{
+  width:100%;
+  height: 60%;
+  position:fixed;
+  bottom: 0;
+}
+
+.main-content{
+  display:flex;
+}
+
+/* brand box */
+.remaining-text{
+  color: black;
+}
+.icons-container{
+  display: flex;
+  margin: 0 0 2rem 2rem;
+}
+.brand-box{
+  border-radius: 15px;
+  border-top-right-radius: 85px;
+  background: #1E2C69;
+  width: 350px;
+  height: 100px;
+  display: inline-table;
+}
+.logo-img{
+  margin: 2.5rem 0 1rem 2.5rem;
+}
+.icon-container{
+  background-color: #0C122C;
+  width: 3rem;
+  height: 3rem;
+  margin: 0.5rem;
+  border-radius: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+/* usage box */
+.usage-box{
+  display: inline-block;
+}
+.used_font{
+  font-size: 14px;
+}
+.gb_font{
+  font-weight: 700;
+}
+.small_bold_font{
+  font-size: 12px;
+  font-weight: 700;
+}
+.gbleft_font{
+  font-size: 12px;
+  color: grey;
+}
+.big_font{
+  font-size: 24px;
+  font-weight: 700;
+  color: black;
+}
